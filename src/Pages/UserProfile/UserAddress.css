@@ -1,0 +1,9 @@
+.inner_my_account_right textarea {
+  padding: 10px;
+  border: none;
+  outline: none;
+  border: 1px solid rgb(209, 209, 209);
+  display: block;
+  width: 100%;
+  resize: none;
+}

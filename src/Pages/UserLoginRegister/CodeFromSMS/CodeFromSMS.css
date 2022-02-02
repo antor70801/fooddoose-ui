@@ -1,0 +1,75 @@
+.inner_code_right h2 {
+  color: #f47032;
+  margin-bottom: 20px;
+}
+
+.inner_code_left img {
+  width: 100%;
+}
+.inner_code_right {
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid gray;
+  padding: 20px;
+  margin: 50px auto;
+}
+.code_from_sms {
+  padding-top: 90px;
+}
+.code_box {
+  margin: auto;
+}
+.code_box input {
+  border: none;
+  border: 1px solid gray;
+  padding: 10px;
+  margin: 5px;
+  width: 50px;
+  text-align: center;
+  outline: none;
+}
+
+.resend_otp {
+  border: none;
+  padding: 10px 30px;
+  display: block;
+  margin: 5px 0;
+  border: 1px solid #f47032;
+  color: #f47032;
+  font-weight: 700;
+  background-color: #fff;
+}
+.phone_verify {
+  width: 100%;
+  border: none;
+  outline: none;
+  padding: 10px;
+  background-color: #f47032;
+  color: #fff;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-top: 20px;
+}
+
+.google_login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #f47032;
+  margin: 20px 0;
+  padding: 10px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+.google_login img {
+  width: 30px;
+  margin-right: 20px;
+}
+.google_login p {
+  margin: 0;
+  font-weight: 500;
+}

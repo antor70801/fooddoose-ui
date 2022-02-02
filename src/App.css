@@ -1,0 +1,74 @@
+.home-login-btn {
+  background: linear-gradient(202.75deg, #f15151, #f37032);
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 900;
+  padding: 9px 26px;
+  text-decoration: none;
+}
+
+
+
+
+.main-container[data-v-261aa034] {
+  padding-top: 122px;
+  padding-bottom: 40px
+}
+
+.main-container .image-container[data-v-261aa034] {
+  position: relative
+}
+
+.main-container .image-container img[data-v-261aa034] {
+  width: 100%
+}
+
+.main-container .image-container .text[data-v-261aa034] {
+  position: absolute;
+  top: 25%;
+  left: 5%
+}
+
+.main-container .image-container .text .head-text[data-v-261aa034] {
+  margin: 0;
+  font-size: 46px;
+  color: #292f48;
+  font-weight: 700
+}
+
+@media screen and (max-width:768px) {
+  .main-container .image-container .text .head-text[data-v-261aa034] {
+    font-size: 24px
+  }
+}
+
+.main-container .image-container .text .secondary-text[data-v-261aa034] {
+  margin: 0;
+  font-size: 18px;
+  color: #292f48
+}
+
+@media screen and (max-width:768px) {
+  .main-container .image-container .text .secondary-text[data-v-261aa034] {
+    font-size: 16px
+  }
+}
+
+
+
+a {
+  text-decoration: none;
+}
+.my_profile {
+  text-decoration: none;
+  margin-top: 10px;
+  color: #f15151;
+  font-weight: 500;
+  display: block;
+  margin-right: 10px;
+}
+

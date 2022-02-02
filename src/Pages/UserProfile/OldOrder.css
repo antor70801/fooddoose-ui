@@ -1,0 +1,40 @@
+.single_order_area {
+  border: 1px solid rgb(218, 218, 218);
+  padding: 20px;
+  margin-top: 15px;
+}
+.inner_old_order h5 {
+  margin: 0;
+  text-transform: uppercase;
+  color: #f36340;
+}
+.inner_old_order p {
+  margin: 0;
+  padding: 3px 0;
+}
+.order_details,
+.processing_btn,
+.order_now_btn {
+  border: none;
+  outline: none;
+  border: 1px solid rgb(228, 228, 228);
+  padding: 7px 30px;
+  color: #fff;
+  background-color: #f36340;
+  margin-top: 10px;
+}
+.processing_btn {
+  background-color: #5cb85c;
+  margin: 0;
+}
+.order_details {
+  margin: 0;
+  background-color: transparent;
+  color: #f36340;
+  border: 1px solid #f36340;
+  transition: 0.8s;
+}
+.order_details:hover {
+  background-color: #f36340;
+  color: #fff;
+}
